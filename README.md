@@ -27,7 +27,7 @@ Traditional traffic signals operate on fixed cycles, often failing to adapt to r
 - **Deep Learning**: YOLOv8 for real-time object detection  
 - **Optimization Algorithm**: Genetic Algorithm for adaptive signal timing  
 - **Programming**: Python for implementation  
-- **Libraries**: PyTorch, OpenCV, NumPy, Matplotlib  
+- **Libraries**:  OpenCV, NumPy, Matplotlib  
 
 ---
 
