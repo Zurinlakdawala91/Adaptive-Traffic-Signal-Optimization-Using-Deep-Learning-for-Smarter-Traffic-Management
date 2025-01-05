@@ -78,6 +78,7 @@ Traditional traffic signals operate on fixed cycles, often failing to adapt to r
 
 To better understand our system's workflow and results, watch the demo video below:
 
-![Demo Video](relative/path/to/Screen Recording 2024-12-03 112151.mp4)
+[Click here to watch the demo video](relative/path/to/Screen Recording 2024-12-03 112151.mp4)
+
 ---  
 🎯 *This project marks a step forward in smarter traffic management, providing a scalable and efficient solution to modern urban challenges.*  
