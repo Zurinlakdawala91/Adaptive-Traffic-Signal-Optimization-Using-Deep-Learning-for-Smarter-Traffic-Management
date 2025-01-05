@@ -74,6 +74,10 @@ Traditional traffic signals operate on fixed cycles, often failing to adapt to r
 - Expand to include anomaly detection for incidents like accidents or breakdowns.  
 - Integrate IoT devices for a more connected traffic management system.  
 
+## **🎥 Demo Video**
+
+To better understand our system's workflow and results, watch the demo video below:
+
 
 
 ---  
