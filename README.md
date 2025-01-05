@@ -78,8 +78,6 @@ Traditional traffic signals operate on fixed cycles, often failing to adapt to r
 
 To better understand our system's workflow and results, watch the demo video below:
 
-## 🎥 Demo Video
-
 [Watch the Demo Video](https://github.com/Zurinlakdawala91/Adaptive-Traffic-Signal-Optimization-Using-Deep-Learning-for-Smarter-Traffic-Management/blob/main/Screen%20Recording%202024-12-03%20112151.mp4)
 
 
